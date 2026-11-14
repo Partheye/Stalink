@@ -1,0 +1,6 @@
+{
+  "name": "MeshLine",
+  "description": "Offline-first messaging prototype supporting Local Bluetooth Mesh, Satellite Burst Mode, and store-and-forward queuing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
